@@ -42,8 +42,6 @@ Simple Tool / Trainer designed to provide various cheats for Aunt Fatima Game.
 
 - **Rainbow Text Mode (Console):** When It Enabled the text color will cycle and change continuously.
 
-- **Theme Option:** Choose between two available menu themes: **"Dark"** and **"Light"**.
-
 ![Features](https://github.com/iGeNeTeL/AF/blob/main/Images/Features.jpg)
 
 ## Installation
