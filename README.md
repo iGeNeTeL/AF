@@ -22,9 +22,9 @@ Simple Tool / Trainer designed to provide various cheats for Aunt Fatima Game.
 
 - **Player Speed**
 
-- Unlimited Player Stamina
+- **Unlimited Player Stamina**
 
-- Unlimited Spray
+- **Unlimited Spray**
 
 - **Teleport - Aunt Fatima:** Choose from predefined locations or set custom coordinates (X, Y, Z).
 
