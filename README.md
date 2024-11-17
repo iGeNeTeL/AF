@@ -1,7 +1,7 @@
 # Aunt Fatima Tool <br/>(By GeNeTeL جنتل) 
 
 Simple Tool / Trainer designed to provide various cheats for Aunt Fatima Game.
-<br> [Showcase Videos](https://www.youtube.com)
+<br> [Showcase Video](https://www.youtube.com)
 
 ## Features
 - **Completely Free:** :)
